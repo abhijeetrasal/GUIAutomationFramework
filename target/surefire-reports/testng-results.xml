@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="61963" started-at="2014-08-06T09:13:38Z" finished-at="2014-08-06T09:14:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="61963" started-at="2014-08-06T09:13:38Z" finished-at="2014-08-06T09:14:40Z">
+      <class name="argroupid.arartifactid.NewPost">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:argroupid.arartifactid.NewPost@182752b]" name="beforeTest" is-config="true" duration-ms="20223" started-at="2014-08-06T14:43:38Z" finished-at="2014-08-06T14:43:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="newpostcreate()[pri:0, instance:argroupid.arartifactid.NewPost@182752b]" name="newpostcreate" duration-ms="40936" started-at="2014-08-06T14:43:58Z" finished-at="2014-08-06T14:44:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newpostcreate -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:argroupid.arartifactid.NewPost@182752b]" name="afterTest" is-config="true" duration-ms="791" started-at="2014-08-06T14:44:39Z" finished-at="2014-08-06T14:44:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- argroupid.arartifactid.NewPost -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
